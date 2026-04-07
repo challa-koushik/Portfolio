@@ -14,3 +14,5 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Demo
 https://portfolio-ashy-kappa-35.vercel.app/
+## github pages
+https://challa-koushik.github.io/Portfolio/
